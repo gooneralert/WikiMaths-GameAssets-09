@@ -1,0 +1,173 @@
+{
+  "slug": "angry-birds-2",
+  "title": "Angry Birds 2",
+  "type": "HTML",
+  "developer": "Rovio Entertainment",
+  "description": "The birds are back and angrier than ever. Launch your flock from the slingshot, pick the right bird for every situation, and topple the pigs' towering fortresses across hundreds of physics-based puzzles.",
+  "tags": [
+    "Puzzle",
+    "Casual",
+    "Physics",
+    "Cartoon",
+    "Family Friendly",
+    "Arcade"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "7d1411c8-5954-4798-a3bb-185d2a20f1f5",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/index.html",
+  "status": "done",
+  "sizeBytes": 135538626,
+  "assetCount": 40,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.json",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.wasm.code.unityweb",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.wasm.framework.unityweb",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.data.unityweb",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/zstream.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/messages.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/inflate.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/utils/strings.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/constants.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/inflate.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/decode.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/dictionary.bin.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dictionary.bin.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/dictionary-browser.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/dictionary.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/inftrees.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/.unityweb",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/prefix.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/transform.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/huffman.js",
+    "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/streams.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.wasm.code.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.wasm.code.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.wasm.framework.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.wasm.framework.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.data.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/angry.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/zstream.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/messages.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/inflate.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/utils/strings.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/constants.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/inflate.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/decode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dictionary.bin.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/dictionary-browser.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/dictionary-browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/dictionary.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/inftrees.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/prefix.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/transform.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/transform.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/huffman.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/huffman.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/streams.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7d1411c8-5954-4798-a3bb-185d2a20f1f5/1/Build/dec/streams.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:00:19.556Z",
+  "verifiedAt": "2026-10-26T11:01:20.880Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Angry Birds 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 3927
+  }
+}

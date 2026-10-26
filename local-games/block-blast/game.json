@@ -1,0 +1,106 @@
+{
+  "slug": "block-blast",
+  "title": "Block Blast!",
+  "type": "HTML",
+  "developer": "Hungry Studio",
+  "description": "Block Blast is an exhilarating puzzle experience where you will become a true block-breaking master! Letâs embark on this block-busting journey together! Built on profound gameplay experience, top-player strategies, and community know-how, this is more than just a gameâitâs a challenge that blends simplicity with devilish cleverness. Letâs embark on this block-busting journey together!",
+  "tags": [
+    "Puzzle",
+    "Casual",
+    "Strategy",
+    "Minimalist",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "753d8514-872e-4d33-80a3-53e2d6291cce",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/index.html",
+  "status": "done",
+  "sizeBytes": 10281963,
+  "assetCount": 26,
+  "known404": [
+    "https://playobsidian.com/BlockBlast1.1-8.loader.js",
+    "https://playobsidian.com/BlockBlast1.1-8.framework.js.unityweb",
+    "https://playobsidian.com/BlockBlast1.1-8.wasm.unityweb",
+    "https://playobsidian.com/BlockBlast1.1-8.data.unityweb",
+    "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/constants.js",
+    "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/utils/strings.js",
+    "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/messages.js",
+    "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/inflate.js",
+    "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/zstream.js",
+    "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/inftrees.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/BlockBlast1.1-8.loader.js",
+      "error": "HTTP 404 for https://playobsidian.com/BlockBlast1.1-8.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/BlockBlast1.1-8.framework.js.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/BlockBlast1.1-8.framework.js.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/BlockBlast1.1-8.wasm.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/BlockBlast1.1-8.wasm.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/BlockBlast1.1-8.data.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/BlockBlast1.1-8.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/constants.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/utils/strings.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/messages.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/inflate.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/zstream.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/inftrees.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/753d8514-872e-4d33-80a3-53e2d6291cce/1/Build/zlib/inftrees.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:11:45.338Z",
+  "verifiedAt": "2026-10-26T10:12:46.953Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Block Blast Puzzle",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}

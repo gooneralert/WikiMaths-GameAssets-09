@@ -1,0 +1,89 @@
+{
+  "slug": "cruelty-squad",
+  "title": "Cruelty Squad",
+  "type": "HTML",
+  "developer": "Consumer Softproducts",
+  "description": "WARNING: This game is not recommended for people with photosensitive epilepsy. Cruelty Squad is a tactical first person shooter set in the hardcore gig economy of corporate liquidations. You're an emotionally dead combat-substance fueled grunt of Cruelty Squad, a depraved subsidiary company tasked with performing wetworks for its host conglomerate. Will you make the Corporate Arch Demoness proud or succumb to bitter tears of failure?",
+  "tags": [
+    "FPS",
+    "Shooter",
+    "Action",
+    "Tactical",
+    "Violent",
+    "Comedy"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "40150801-83e1-41d3-94ea-8200bc969629",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/index.html",
+  "status": "done",
+  "sizeBytes": 585219068,
+  "assetCount": 68,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/index.pck",
+    "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.js",
+    "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/godot.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.side.wasm",
+    "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.worker.js",
+    "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/index.pck",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/index.pck",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.side.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.worker.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/40150801-83e1-41d3-94ea-8200bc969629/1/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:12:44.532Z",
+  "verifiedAt": "2026-10-26T11:13:01.825Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Cruelty Squad (DEBUG)",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}

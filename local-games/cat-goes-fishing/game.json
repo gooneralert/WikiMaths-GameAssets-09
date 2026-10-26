@@ -1,0 +1,119 @@
+{
+  "slug": "cat-goes-fishing",
+  "title": "Cat Goes Fishing",
+  "type": "HTML",
+  "developer": "Cat5Games",
+  "description": "Start out on an island with nothing more than a basic rod. Progress into a radar-wielding master fisher-cat scouring the sea for the biggest and baddest fish. Each fish has unique behaviors that you will learn to exploit as you tailor your arsenal of fishing rods to suit your style of play.",
+  "tags": [
+    "Casual",
+    "Relaxing",
+    "Simulation",
+    "Sandbox",
+    "Arcade",
+    "Indie"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "68058598-8dba-442b-a26a-21ae9c59eb0d",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/index.html",
+  "status": "done",
+  "sizeBytes": 63596145,
+  "assetCount": 26,
+  "known404": [
+    "https://playobsidian.com/assets/steam_settings/achievements.json",
+    "https://playobsidian.com/assets/steam_settings/dlc.txt",
+    "https://playobsidian.com/assets/steam_settings/steam_appid.txt",
+    "https://playobsidian.com/assets/steam_settings/settings/language.txt",
+    "https://playobsidian.com/assets/steam_settings/settings/listen_port.txt",
+    "https://playobsidian.com/assets/steam_settings/settings/account_name.txt",
+    "https://playobsidian.com/assets/steam_settings/settings/user_steam_id.txt",
+    "https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/datafile_runner.data",
+    "https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/.wav",
+    "https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/.ogg",
+    "https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/.mp3",
+    "https://playobsidian.com/images/AvatarPlaceholder.png"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/assets/steam_settings/achievements.json",
+      "error": "HTTP 404 for https://playobsidian.com/assets/steam_settings/achievements.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/assets/steam_settings/dlc.txt",
+      "error": "HTTP 404 for https://playobsidian.com/assets/steam_settings/dlc.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/assets/steam_settings/steam_appid.txt",
+      "error": "HTTP 404 for https://playobsidian.com/assets/steam_settings/steam_appid.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/assets/steam_settings/settings/language.txt",
+      "error": "HTTP 404 for https://playobsidian.com/assets/steam_settings/settings/language.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/assets/steam_settings/settings/listen_port.txt",
+      "error": "HTTP 404 for https://playobsidian.com/assets/steam_settings/settings/listen_port.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/assets/steam_settings/settings/account_name.txt",
+      "error": "HTTP 404 for https://playobsidian.com/assets/steam_settings/settings/account_name.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/assets/steam_settings/settings/user_steam_id.txt",
+      "error": "HTTP 404 for https://playobsidian.com/assets/steam_settings/settings/user_steam_id.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/datafile_runner.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/datafile_runner.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/68058598-8dba-442b-a26a-21ae9c59eb0d/1/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/images/AvatarPlaceholder.png",
+      "error": "HTTP 404 for https://playobsidian.com/images/AvatarPlaceholder.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:09:09.925Z",
+  "verifiedAt": "2026-10-26T11:09:22.032Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "cat2.project",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1920,
+      "height": 1080
+    },
+    "nonBlack": 0
+  }
+}
