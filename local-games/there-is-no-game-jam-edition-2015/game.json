@@ -1,0 +1,65 @@
+{
+  "slug": "there-is-no-game-jam-edition-2015",
+  "title": "There is no game: Jam Edition 2015",
+  "type": "HTML",
+  "developer": "Draw Me A Pixel",
+  "description": "I told you there is no game! It's not like itâs a Point&Click that won the 2015 Construct Deception Jam, or that millions of people have tried it. Of course not! And if youâve never heard of it, nowâs the perfect time to go for a walk, read a book... or somethingâ¦",
+  "tags": [
+    "2D",
+    "Point & Click",
+    "Adventure",
+    "Indie",
+    "Puzzle",
+    "Retro"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "c24f5bd8-7211-462e-820b-7fc81c96a5c0",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/index.html",
+  "status": "done",
+  "sizeBytes": 6070909,
+  "assetCount": 592,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/.ogg",
+    "https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/data.json",
+    "https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/.m4a"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/data.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/data.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/c24f5bd8-7211-462e-820b-7fc81c96a5c0/1/.m4a",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:06:09.742Z",
+  "verifiedAt": "2026-10-26T10:06:19.921Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "ThereIsNoGame",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1111,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}

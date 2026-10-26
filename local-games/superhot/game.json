@@ -1,0 +1,176 @@
+{
+  "slug": "superhot",
+  "title": "SUPERHOT",
+  "type": "HTML",
+  "developer": "SUPERHOT Team",
+  "description": "SUPERHOT is the smash-hit FPS where time moves only when you move. No regenerating health bars. No conveniently placed ammo drops. It's you, alone, outnumbered and outgunned. Snatch weapons from fallen enemies to shoot, slice and dodge through a truly cinematic hurricane of slow-motion bullets.",
+  "tags": [
+    "FPS",
+    "Action",
+    "Stylized",
+    "Singleplayer",
+    "3D",
+    "Shooter"
+  ],
+  "controls": [
+    {
+      "action": "Move Forward",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        },
+        {
+          "key": "KeyW",
+          "keyCode": 87
+        }
+      ]
+    },
+    {
+      "action": "Move Backward",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        },
+        {
+          "key": "KeyS",
+          "keyCode": 83
+        }
+      ]
+    },
+    {
+      "action": "Move Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        },
+        {
+          "key": "KeyA",
+          "keyCode": 65
+        }
+      ]
+    },
+    {
+      "action": "Move Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        },
+        {
+          "key": "KeyD",
+          "keyCode": 68
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "keys": [
+        {
+          "key": " ",
+          "keyCode": 32
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Move Forward",
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Move Backward",
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Move Left",
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Move Right",
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "buttons": [
+        3
+      ]
+    }
+  ],
+  "controllerSupport": true,
+  "sourceId": "0abcc623-ec00-493a-9139-e23b85071e5a",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/0abcc623-ec00-493a-9139-e23b85071e5a/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/0abcc623-ec00-493a-9139-e23b85071e5a/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/0abcc623-ec00-493a-9139-e23b85071e5a/1/index.html",
+  "status": "done",
+  "sizeBytes": 45536285,
+  "assetCount": 14,
+  "known404": [
+    "https://playobsidian.com/js/main.js",
+    "https://playobsidian.com/methods_pointedto_by_uievents.xml",
+    "https://playobsidian.com/cdn/assets/html/0abcc623-ec00-493a-9139-e23b85071e5a/1/datafile_webgl.data",
+    "https://playobsidian.com/preserved_derived_types.xml"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/js/main.js",
+      "error": "HTTP 404 for https://playobsidian.com/js/main.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/methods_pointedto_by_uievents.xml",
+      "error": "HTTP 404 for https://playobsidian.com/methods_pointedto_by_uievents.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/0abcc623-ec00-493a-9139-e23b85071e5a/1/datafile_webgl.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/0abcc623-ec00-493a-9139-e23b85071e5a/1/datafile_webgl.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/preserved_derived_types.xml",
+      "error": "HTTP 404 for https://playobsidian.com/preserved_derived_types.xml",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:01:47.515Z",
+  "verifiedAt": "2026-10-26T10:02:01.022Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "SUPERHOT",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1249,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}

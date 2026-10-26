@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+   <Ad id="Test_normal_video">
+      <InLine>
+         <AdSystem>Sun Media</AdSystem>
+         <AdTitle>Normal Video Sun Media</AdTitle>
+         <Impression><![CDATA[https://track.sunmedia.tv/?trk=impression_tag]]></Impression>
+         <Error><![CDATA[https://track.sunmedia.tv/?trk=error_tag]]></Error>
+         <Creatives>
+            <Creative id="video">
+               <Linear>
+                  <TrackingEvents> 
+                     <Tracking event="firstQuartile">
+                        <![CDATA[https://track.sunmedia.tv/?trk=firstquartile_tag]]>
+                     </Tracking> 
+                     <Tracking event="midpoint">
+                        <![CDATA[https://track.sunmedia.tv/?trk=midpoint_tag]]>
+                     </Tracking> 
+                     <Tracking event="thirdQuartile">
+                        <![CDATA[https://track.sunmedia.tv/?trk=thirdquartile_tag]]>
+                     </Tracking> 
+                     <Tracking event="complete">
+                        <![CDATA[https://track.sunmedia.tv/?trk=complete_tag]]>
+                     </Tracking> 
+                     <Tracking event="creativeView">
+                        <![CDATA[https://track.sunmedia.tv/?trk=creativeview_tag]]>
+                     </Tracking> 
+                  </TrackingEvents> 
+                  <VideoClicks> 
+                     <ClickTracking>
+                        <![CDATA[https://track.sunmedia.tv/?trk=click_tag]]>
+                     </ClickTracking> 
+                  </VideoClicks> 
+                  <Duration>00:00:29</Duration>
+                  <VideoClicks>
+                     <ClickThrough><![CDATA[https://www.sunmedia.tv]]></ClickThrough>
+                  </VideoClicks>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="355" width="640" height="360" scalable="true"><![CDATA[https://vod.sunmedia.tv/sunmedia/demos/v/normal.mp4]]></MediaFile>
+                  </MediaFiles>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+</VAST>

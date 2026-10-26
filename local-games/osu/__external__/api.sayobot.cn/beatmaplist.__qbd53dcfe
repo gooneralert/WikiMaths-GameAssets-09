@@ -1,0 +1,64 @@
+<script src="/__offline__/bootstrap.js"></script>
+{
+	"data" : 
+	[
+		{
+			"approved" : 1,
+			"artist" : "dj TAKA",
+			"artistU" : "",
+			"creator" : "Sotarks",
+			"favourite_count" : 16380,
+			"lastupdate" : 1546156130,
+			"modes" : 3,
+			"order" : 8.839,
+			"play_count" : 105520968,
+			"sid" : 873811,
+			"title" : "quaver",
+			"titleU" : "quaver ?"
+		},
+		{
+			"approved" : 1,
+			"artist" : "Turbo",
+			"artistU" : "",
+			"creator" : "Sotarks",
+			"favourite_count" : 5854,
+			"lastupdate" : 1576589997,
+			"modes" : 1,
+			"order" : 8.592,
+			"play_count" : 72398664,
+			"sid" : 1073074,
+			"title" : "PADORU / PADORU",
+			"titleU" : ""
+		},
+		{
+			"approved" : 1,
+			"artist" : "S3RL",
+			"artistU" : "",
+			"creator" : "Fatfan Kolek",
+			"favourite_count" : 23341,
+			"lastupdate" : 1570120171,
+			"modes" : 1,
+			"order" : 9.1,
+			"play_count" : 77995035,
+			"sid" : 983911,
+			"title" : "Bass Slut (Original Mix)",
+			"titleU" : ""
+		},
+		{
+			"approved" : 1,
+			"artist" : "MIMI feat. Hatsune Miku",
+			"artistU" : "MIMI feat. \u521d\u97f3\u30df\u30af",
+			"creator" : "Log Off Now",
+			"favourite_count" : 21442,
+			"lastupdate" : 1555673730,
+			"modes" : 1,
+			"order" : 9.141,
+			"play_count" : 64188297,
+			"sid" : 952409,
+			"title" : "Ai no Sukima",
+			"titleU" : "\u54c0\u306e\u9699\u9593"
+		}
+	],
+	"endid" : 4,
+	"status" : 0
+}

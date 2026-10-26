@@ -1,0 +1,44 @@
+{
+  "slug": "the-fancy-pants-adventures-world-1",
+  "title": "The Fancy Pants Adventures: World 1",
+  "type": "Flash",
+  "developer": "Brad Borne",
+  "description": "The Fancy Pants Adventures: World 1 is a 2006 platformer featuring the adventures of Fancy Pants Man.",
+  "tags": [
+    "2D Platformer",
+    "Action",
+    "Arcade",
+    "Casual",
+    "Physics",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "618fdf20-6f14-4d2e-b8a8-ab985b680847",
+  "sourceVersion": "1.7b",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/618fdf20-6f14-4d2e-b8a8-ab985b680847/1.7b/618fdf20-6f14-4d2e-b8a8-ab985b680847.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 2690822,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:54:38.387Z",
+  "verifiedAt": "2026-10-26T11:54:51.410Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The Fancy Pants Adventures: World 1",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null
+  },
+  "assetCount": 0
+}
