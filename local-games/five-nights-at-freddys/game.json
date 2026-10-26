@@ -1,0 +1,130 @@
+{
+  "slug": "five-nights-at-freddys",
+  "title": "Five Nights at Freddy's",
+  "type": "HTML",
+  "developer": "Scott Cawthon",
+  "description": "Welcome to your new summer job at Freddy Fazbear's Pizza, where kids and parents alike come for entertainment and food! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds!",
+  "tags": [
+    "Horror",
+    "Point & Click",
+    "Indie",
+    "Strategy",
+    "Survival"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "03b1fad9-1775-4e5c-82ac-3e221628d43d",
+  "sourceVersion": "1.1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/index.html",
+  "status": "done",
+  "sizeBytes": 172498516,
+  "assetCount": 60,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/resources.zip",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/resources.zip",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire2U.png",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire1U.png",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/Preloader.png",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire1D.png",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/joyback.png",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/joyfront.png",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/folder/data.txt",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire2D.png",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/.js",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/Xmas.txt",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/smile.gif",
+    "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/hello.txt"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/resources.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/resources.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/resources.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/resources.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire2U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire2U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire1U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire1U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/Preloader.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/Preloader.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire1D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire1D.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/joyback.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/joyback.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/joyfront.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/joyfront.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/folder/data.txt",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/folder/data.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire2D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/fire2D.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/Xmas.txt",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/Xmas.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/smile.gif",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/smile.gif",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/hello.txt",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/03b1fad9-1775-4e5c-82ac-3e221628d43d/1.1/src/hello.txt",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:20:35.635Z",
+  "verifiedAt": "2026-10-26T10:20:52.661Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Five Nights at Freddy's 1",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 2515
+  }
+}

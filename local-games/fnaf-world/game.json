@@ -1,0 +1,94 @@
+{
+  "slug": "fnaf-world",
+  "title": "FNaF World",
+  "type": "HTML",
+  "developer": "Scott Cawthon",
+  "description": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!",
+  "tags": [
+    "Horror",
+    "Point & Click",
+    "Indie",
+    "Strategy",
+    "Survival"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "d6937337-5bda-436a-a10e-823891fa1224",
+  "sourceVersion": "1.24",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/index.html",
+  "status": "done",
+  "sizeBytes": 263529502,
+  "assetCount": 38,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/resources.zip",
+    "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire2U.png",
+    "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire1U.png",
+    "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/Preloader.png",
+    "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/joyback.png",
+    "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/joyfront.png",
+    "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire1D.png",
+    "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire2D.png"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/resources.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/resources.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire2U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire2U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire1U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire1U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/Preloader.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/Preloader.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/joyback.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/joyback.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/joyfront.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/joyfront.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire1D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire1D.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire2D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d6937337-5bda-436a-a10e-823891fa1224/1.24/fire2D.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:24:54.053Z",
+  "verifiedAt": "2026-10-26T10:25:19.916Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "FNaF World",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}

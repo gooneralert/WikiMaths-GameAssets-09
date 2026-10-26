@@ -1,0 +1,125 @@
+{
+  "slug": "dude-simulator",
+  "title": "Dude Simulator",
+  "type": "HTML",
+  "developer": "Kiddy",
+  "description": "Dude Simulator is an open world sandbox game. This is a life simulator. The main objective is to enjoy what you are doing. You can do whatever you want. You can explore the town, find money and spend it to buy something, kill someone, enter any building â just everything that can be done in real life. You can live a regular life of an ordinary person or you can do any crazy things, play jokes on other people, and so on â it is all up to you.",
+  "tags": [
+    "Sandbox",
+    "Simulation",
+    "Open World",
+    "Comedy",
+    "Funny",
+    "Action"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/index.html",
+  "status": "done",
+  "sizeBytes": 100332547,
+  "assetCount": 20,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/noData",
+    "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/none",
+    "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/null",
+    "https://playobsidian.com/DS77.loader.js",
+    "https://playobsidian.com/DS77.data.unityweb",
+    "https://playobsidian.com/DS77.framework.js.unityweb",
+    "https://playobsidian.com/DS77.wasm.unityweb",
+    "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/dictionary.bin.js",
+    "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/decode.js",
+    "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/dictionary.js",
+    "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/prefix.js",
+    "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/transform.js",
+    "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/streams.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/noData",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/noData",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/none",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/none",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/null",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/null",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/DS77.loader.js",
+      "error": "HTTP 404 for https://playobsidian.com/DS77.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/DS77.data.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/DS77.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/DS77.framework.js.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/DS77.framework.js.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/DS77.wasm.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/DS77.wasm.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/decode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/dictionary.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/prefix.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/transform.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/transform.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/streams.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/71f266d1-d5ee-4dfc-a420-3cdd5c24bf8b/1/Build/dec/streams.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:24:47.056Z",
+  "verifiedAt": "2026-10-26T11:25:49.190Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1250,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}

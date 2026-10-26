@@ -1,0 +1,88 @@
+{
+  "slug": "five-nights-at-freddys-4",
+  "title": "Five Nights at Freddy's 4",
+  "type": "HTML",
+  "developer": "Scott Cawthon",
+  "description": "In this last chapter of the Five Nights at Freddy's original story, you must once again defend yourself against Freddy Fazbear, Chica, Bonnie, Foxy, and even worse things that lurk in the shadows.",
+  "tags": [
+    "Horror",
+    "Point & Click",
+    "Indie",
+    "Strategy",
+    "Survival"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "dad4c5b9-f2bd-4816-908e-c870c7b3293e",
+  "sourceVersion": "1.0",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/index.html",
+  "status": "done",
+  "sizeBytes": 18504858,
+  "assetCount": 188,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/joyfront.png",
+    "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/joyback.png",
+    "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire1U.png",
+    "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/Preloader.png",
+    "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire2U.png",
+    "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire1D.png",
+    "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire2D.png"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/joyfront.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/joyfront.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/joyback.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/joyback.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire1U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire1U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/Preloader.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/Preloader.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire2U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire2U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire1D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire1D.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire2D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/dad4c5b9-f2bd-4816-908e-c870c7b3293e/1.0/src/fire2D.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:22:41.296Z",
+  "verifiedAt": "2026-10-26T10:22:53.754Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Five Nights at Freddy's 4",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1024,
+      "height": 768
+    },
+    "nonBlack": 0
+  }
+}
