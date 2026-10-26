@@ -1,0 +1,83 @@
+{
+  "slug": "gamble-with-your-friends",
+  "title": "Gamble with Your Friends",
+  "type": "HTML",
+  "developer": "TEAM GWYF",
+  "description": "Gamble With Your Friends An online 1-6 player co-op \"casino crawler\" where you and your friends share one bank account and one massive debt. Gamble, buy sketchy items, make terrible decisions, and climb an ominous casino tower to hit your loan shark's daily quota in 5 minutes - or face the consequences. FEATURES:",
+  "tags": [
+    "Casual",
+    "Board Game",
+    "Singleplayer",
+    "Multiplayer",
+    "Comedy",
+    "Indie"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "ff415e45-f675-4ce7-b290-4b4e56e71a9b",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/index.html",
+  "status": "done",
+  "sizeBytes": 793178145,
+  "assetCount": 94,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/build.data",
+    "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/build.wasm",
+    "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/build.wasm",
+    "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/.ogg",
+    "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/.wav",
+    "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/.mp3"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/build.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/build.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/build.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/build.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ff415e45-f675-4ce7-b290-4b4e56e71a9b/1/Build/.mp3",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:28:21.554Z",
+  "verifiedAt": "2026-10-26T11:28:35.256Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Gamble With Your Friends — Solo",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0
+  }
+}

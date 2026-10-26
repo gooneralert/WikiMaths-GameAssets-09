@@ -1,0 +1,90 @@
+{
+  "slug": "hollow-knight-silksong",
+  "title": "Hollow Knight: Silksong",
+  "type": "HTML",
+  "developer": "Team Cherry",
+  "description": "Discover a vast, haunted kingdom in Hollow Knight: Silksong! Explore, fight and survive as you ascend to the peak of a land ruled by silk and song.",
+  "tags": [
+    "Metroidvania",
+    "Difficult",
+    "Platformer",
+    "Action",
+    "Atmospheric",
+    "Indie",
+    "Exploration"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "9677f340-512e-4c63-9dde-f11bb5db89cd",
+  "sourceVersion": "1.0.29315",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/index.html",
+  "status": "done",
+  "sizeBytes": 2083561961,
+  "assetCount": 214,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/StreamingAssets/aa/WebGL.zip",
+    "https://playobsidian.com/w-pt.wasm.unityweb",
+    "https://playobsidian.com/w-pt.framework.js.unityweb",
+    "https://playobsidian.com/w-pt.loader.js",
+    "https://playobsidian.com/w-pt.data.unityweb",
+    "https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/package.json",
+    "https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/folder/data.txt"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/StreamingAssets/aa/WebGL.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/StreamingAssets/aa/WebGL.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/w-pt.wasm.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/w-pt.wasm.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/w-pt.framework.js.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/w-pt.framework.js.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/w-pt.loader.js",
+      "error": "HTTP 404 for https://playobsidian.com/w-pt.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/w-pt.data.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/w-pt.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/package.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/folder/data.txt",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9677f340-512e-4c63-9dde-f11bb5db89cd/1.0.29315/folder/data.txt",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:34:32.475Z",
+  "verifiedAt": "2026-10-26T10:34:48.627Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Hollow Knight: Silksong",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 960,
+      "height": 600
+    },
+    "nonBlack": 0
+  }
+}
