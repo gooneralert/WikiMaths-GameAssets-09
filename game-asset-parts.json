@@ -1,1 +1,847 @@
-{}
+{
+  "local-games/cruelty-squad/index.pck": {
+    "size": 566922656,
+    "parts": [
+      {
+        "path": "local-games/cruelty-squad/index.pck.part1",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part2",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part3",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part4",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part5",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part6",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part7",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part8",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part9",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part10",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part11",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part12",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part13",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part14",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part15",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part16",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part17",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part18",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part19",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part20",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part21",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part22",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part23",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part24",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part25",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part26",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part27",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/cruelty-squad/index.pck.part28",
+        "size": 3522782
+      }
+    ]
+  },
+  "local-games/five-nights-at-freddys/src/resources.zip": {
+    "size": 167251113,
+    "parts": [
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part1",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part2",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part3",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part4",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part5",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part6",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part7",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part8",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part9",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part10",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part11",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part12",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part13",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part14",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part15",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part16",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part17",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part18",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part19",
+        "size": 8362556
+      },
+      {
+        "path": "local-games/five-nights-at-freddys/src/resources.zip.part20",
+        "size": 8362549
+      }
+    ]
+  },
+  "local-games/fnaf-world/resources.zip": {
+    "size": 262741584,
+    "parts": [
+      {
+        "path": "local-games/fnaf-world/resources.zip.part1",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part2",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part3",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part4",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part5",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part6",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part7",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part8",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part9",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part10",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part11",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part12",
+        "size": 20210892
+      },
+      {
+        "path": "local-games/fnaf-world/resources.zip.part13",
+        "size": 20210880
+      }
+    ]
+  },
+  "local-games/gamble-with-your-friends/chunks/build.data": {
+    "size": 792000000,
+    "parts": [
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part001",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part002",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part003",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part004",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part005",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part006",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part007",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part008",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part009",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part010",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part011",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part012",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part013",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part014",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part015",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part016",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part017",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part018",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part019",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part020",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part021",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part022",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part023",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part024",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part025",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part026",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part027",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part028",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part029",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part030",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part031",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part032",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part033",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part034",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part035",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part036",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part037",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part038",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part039",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part040",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part041",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part042",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part043",
+        "size": 18000000
+      },
+      {
+        "path": "local-games/gamble-with-your-friends/chunks/build.data.part044",
+        "size": 18000000
+      }
+    ]
+  },
+  "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip": {
+    "size": 2083139638,
+    "parts": [
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part1",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part2",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part3",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part4",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part5",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part6",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part7",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part8",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part9",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part10",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part11",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part12",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part13",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part14",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part15",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part16",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part17",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part18",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part19",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part20",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part21",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part22",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part23",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part24",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part25",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part26",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part27",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part28",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part29",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part30",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part31",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part32",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part33",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part34",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part35",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part36",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part37",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part38",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part39",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part40",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part41",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part42",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part43",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part44",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part45",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part46",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part47",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part48",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part49",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part50",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part51",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part52",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part53",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part54",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part55",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part56",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part57",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part58",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part59",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part60",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part61",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part62",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part63",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part64",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part65",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part66",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part67",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part68",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part69",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part70",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part71",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part72",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part73",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part74",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part75",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part76",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part77",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part78",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part79",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part80",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part81",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part82",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part83",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part84",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part85",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part86",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part87",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part88",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part89",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part90",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part91",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part92",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part93",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part94",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part95",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part96",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part97",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part98",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part99",
+        "size": 20866662
+      },
+      {
+        "path": "local-games/hollow-knight-silksong/StreamingAssets/aa/WebGL.zip.part100",
+        "size": 17340100
+      }
+    ]
+  }
+}
